@@ -49,5 +49,8 @@
   "volta": {
     "node": "14.19.1",
     "yarn": "1.22.18"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001457"
   }
 }
